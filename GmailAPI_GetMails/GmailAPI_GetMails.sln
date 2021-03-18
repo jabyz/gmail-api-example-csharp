@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailAPI_GetMails", "GmailAPI_GetMails\GmailAPI_GetMails.csproj", "{A7D55D7F-F2F0-40CC-B225-8AF4B34E6E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D55D7F-F2F0-40CC-B225-8AF4B34E6E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D55D7F-F2F0-40CC-B225-8AF4B34E6E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D55D7F-F2F0-40CC-B225-8AF4B34E6E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D55D7F-F2F0-40CC-B225-8AF4B34E6E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5041A801-6247-461C-9DE8-D8D4F229C276}
+	EndGlobalSection
+EndGlobal
